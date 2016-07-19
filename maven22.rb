@@ -1,4 +1,4 @@
-class Maven31 < Formula
+class Maven22 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
   url "http://archive.apache.org/dist/maven/binaries/apache-maven-2.2.1-bin.tar.gz"
